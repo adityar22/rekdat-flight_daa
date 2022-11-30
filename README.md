@@ -6,3 +6,5 @@
 3. Fiorenza Celestyn 20/460545/TK/51134
 4. Agnes Suarna  20/463589/TK/51581
 5. Ananta Pridya Yudha 20/463592/tk/51584
+
+Github ini merupakan github untuk source Mining Data yang dilakukan setelah proses ETL (Extract, Transform, Load) dilakukan.
